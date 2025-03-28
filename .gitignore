@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.log
+chrome-installer.sh
+Dockerfile
+Jobs.csv
+tempCodeRunnerFile.py
